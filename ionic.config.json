@@ -1,0 +1,8 @@
+{
+  "name": "party-planners",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "cc49216f"
+}
