@@ -18,6 +18,7 @@ const Tab3: React.FC = () => {
           </IonToolbar>
         </IonHeader>
         <IonButton routerLink="/login">Login</IonButton>
+        <IonButton routerLink="/register">Register</IonButton>
       </IonContent>
     </IonPage>
   );
