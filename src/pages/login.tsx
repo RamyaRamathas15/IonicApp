@@ -10,24 +10,12 @@ const login: React.FC = () => {
           <IonTitle>Login</IonTitle>
           <form>
           <IonItem>
-              <IonLabel>First name</IonLabel>
+              <IonLabel>Username</IonLabel>
               <IonInput type="text"></IonInput>
           </IonItem>
           <IonItem>
-              <IonLabel>Last Name</IonLabel>
-              <IonInput type="text"></IonInput>
-          </IonItem>
-          <IonItem>
-              <IonLabel>Address line1</IonLabel>
-              <IonInput type="text"></IonInput>
-          </IonItem>
-          <IonItem>
-              <IonLabel>Address line2</IonLabel>
-              <IonInput type="text"></IonInput>
-          </IonItem>
-          <IonItem>
-              <IonLabel>Zip code</IonLabel>
-              <IonInput type="text"></IonInput>
+              <IonLabel>Password</IonLabel>
+              <IonInput type="password"></IonInput>
           </IonItem>
           <IonButton type="submit">Login</IonButton>
           </form>
